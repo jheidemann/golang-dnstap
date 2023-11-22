@@ -1,4 +1,4 @@
-module github.com/dnstap/golang-dnstap
+module github.com/jheidemann/golang-dnstap
 
 require (
 	github.com/farsightsec/golang-framestream v0.3.0
